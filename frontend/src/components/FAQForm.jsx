@@ -4,15 +4,15 @@ import QuillEditor from './QuillEditor';
 
 const FAQForm = ({ onSubmit }) => {
   const [question, setQuestion] = useState('');
-  const [answerHtml, setAnswerHtml] = useState(''); // Stores the HTML content from Quill
-  const [answerText, setAnswerText] = useState(''); // Stores the plain text content from Quill
+  const [answerHtml, setAnswerHtml] = useState(''); 
+  const [answerText, setAnswerText] = useState(''); 
   const [errors, setErrors] = useState({});
 
   // Form Validation
   const validateForm = () => {
     const newErrors = {};
     if (!question.trim()) newErrors.question = 'Question is required';
-    if (!answerText.trim()) newErrors.answer = 'Answer is required'; // Validate plain text
+    if (!answerText.trim()) newErrors.answer = 'Answer is required'; 
     setErrors(newErrors);
     return Object.keys(newErrors).length === 0;
   };
@@ -21,10 +21,10 @@ const FAQForm = ({ onSubmit }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (validateForm()) {
-      onSubmit({ question_en: question, answer_en: answerHtml }); // Submit the FAQ data
-      setQuestion(''); // Reset the question field
-      setAnswerHtml(''); // Reset the HTML answer field
-      setAnswerText(''); // Reset the plain text answer field
+      onSubmit({ question_en: question, answer_en: answerHtml }); 
+      setQuestion(''); 
+      setAnswerHtml(''); 
+      setAnswerText(''); 
       setErrors({}); // Clear errors
     }
   };
