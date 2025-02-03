@@ -1,0 +1,26 @@
+.language-selector {
+    text-align: right;
+    margin-bottom: 10px;
+  }
+  
+  .custom-select {
+    padding: 8px 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    background: linear-gradient(135deg, #cd4921, #e7e9ed);
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .custom-select:hover {
+    background: linear-gradient(135deg, #fcfbfa, #cf6610);
+  }
+  
+  .custom-select:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(106, 17, 203, 0.8);
+  }
+  

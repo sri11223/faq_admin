@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/sri11223/faq_admin.git
+[submodule "frontend/frontend"]
+	path = frontend/frontend
+	url = https://github.com/sri11223/faq_admin.git
