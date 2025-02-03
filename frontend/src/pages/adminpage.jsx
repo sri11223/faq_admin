@@ -17,7 +17,7 @@ const AdminPage = () => {
   const fetchFAQs = async () => {
     setLoading(true);
     try {
-      const response = await axios.get('http://localhost:3001/api/faqs');
+      const response = await axios.get('https://faq-admin-backend.onrender.com/api/faqs');
       setFaqs(response.data); // Update the FAQs state with fetched data
     } catch (error) {
       console.error('Error fetching FAQs:', error);
@@ -29,7 +29,7 @@ const AdminPage = () => {
   // Function to create a new FAQ and refresh the list
   const handleCreateFAQ = async (newFAQ) => {
     try {
-      const response = await axios.post('http://localhost:3001/api/faqs', newFAQ);
+      const response = await axios.post('https://faq-admin-backend.onrender.com/api/faqs', newFAQ);
       const createdFAQ = response.data;
   
       // Append the new FAQ to the existing FAQs list
@@ -48,7 +48,7 @@ const AdminPage = () => {
   // Function to update an existing FAQ
   const handleUpdate = async (id, question, answer) => {
     try {
-      const response = await axios.put(`http://localhost:3001/api/faqs/${id}`, {
+      const response = await axios.put(`https://faq-admin-backend.onrender.com/api/faqs/${id}`, {
         question_en: question,
         answer_en: answer,
       });
@@ -75,7 +75,7 @@ const AdminPage = () => {
         return;
       }
   
-      await axios.delete(`http://localhost:3001/api/faqs/${id}`);
+      await axios.delete(`https://faq-admin-backend.onrender.com/api/faqs/${id}`);
   
       // Remove the deleted FAQ from the state
       setFaqs((prevFaqs) => prevFaqs.filter((faq) => faq.id !== id));
