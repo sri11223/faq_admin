@@ -1,0 +1,58 @@
+/* Modern Gradient Background */
+.custom-navbar {
+    background: linear-gradient(90deg, #6a11cb, #2575fc); /* Purple to Blue */
+    padding: 12px 0;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Navbar Links */
+  .custom-nav-link {
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding: 10px 15px;
+    transition: all 0.3s ease-in-out;
+    color: #fff !important;
+    position: relative;
+  }
+  
+  /* Hover Effects */
+  .custom-nav-link:hover {
+    color: #ffeb3b !important; /* Yellow hover effect */
+    text-shadow: 0px 0px 8px rgba(255, 235, 59, 0.7);
+  }
+  
+  /* Dropdown Menu */
+  .custom-dropdown .dropdown-menu {
+    background: linear-gradient(90deg, #2575fc, #6a11cb);
+    border: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .custom-dropdown .dropdown-item {
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .custom-dropdown .dropdown-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #ffeb3b;
+  }
+  
+  /* Mobile Button */
+  .navbar-toggler {
+    border: none;
+    outline: none;
+  }
+  
+  /* Navbar Brand */
+  .navbar-brand {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #fff !important;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .navbar-brand:hover {
+    text-shadow: 0px 0px 12px rgba(255, 255, 255, 0.9);
+  }
+  

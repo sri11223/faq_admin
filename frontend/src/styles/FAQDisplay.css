@@ -1,0 +1,54 @@
+/* FAQ Container */
+.faq-container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background: linear-gradient(135deg, #ff7f50, #ffffff); /* Orange to white gradient */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    color: #333; /* Set the default text color to dark for readability */
+  }
+  
+  /* FAQ Header */
+  .faq-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .faq-header h1 {
+    color: #ff7f50; /* Light orange text for the header */
+    font-weight: bold;
+  }
+  
+  /* Accordion */
+  .accordion-item {
+    background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent background */
+    border: none;
+  }
+  
+  .accordion-header {
+    font-weight: bold;
+    color: #ff7f50; /* Orange text for headers */
+  }
+  
+  .accordion-button {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #ff7f50; /* Orange color for the accordion button text */
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .accordion-button:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: black; /* White text on hover for contrast */
+  }
+  
+  .accordion-button:focus {
+    box-shadow: none;
+  }
+  
+  .accordion-body {
+    color: #555; /* Dark gray color for the body content to improve readability */
+  }
+  
