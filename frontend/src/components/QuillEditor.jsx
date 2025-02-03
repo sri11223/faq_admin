@@ -1,17 +1,17 @@
 // src/components/QuillEditor.jsx
 import React, { useEffect, useRef } from 'react';
 import Quill from 'quill';
-import 'quill/dist/quill.snow.css'; // Import Quill styles
+import 'quill/dist/quill.snow.css'; 
 
 const QuillEditor = ({ value, onChange }) => {
-  const quillRef = useRef(null); // Reference to the Quill container
-  const quillInstance = useRef(null); // Reference to the Quill instance
+  const quillRef = useRef(null); 
+  const quillInstance = useRef(null); 
 
   useEffect(() => {
     if (!quillInstance.current) {
       // Initialize Quill editor
       quillInstance.current = new Quill(quillRef.current, {
-        theme: 'snow', // Use 'snow' for toolbar or 'bubble' for inline
+        theme: 'snow', 
         modules: {
           toolbar: {
             container: [
@@ -31,9 +31,9 @@ const QuillEditor = ({ value, onChange }) => {
 
       // Listen for text changes and update the parent state
       quillInstance.current.on('text-change', () => {
-        const htmlContent = quillRef.current.querySelector('.ql-editor').innerHTML; // Get HTML
-        const plainText = quillInstance.current.getText().trim(); // Get plain text
-        onChange(htmlContent, plainText); // Pass both HTML and plain text to the parent
+        const htmlContent = quillRef.current.querySelector('.ql-editor').innerHTML; 
+        const plainText = quillInstance.current.getText().trim(); 
+        onChange(htmlContent, plainText); 
       });
     }
 
