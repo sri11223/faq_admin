@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap';
 import { FaHome, FaQuestionCircle, FaUser, FaCog } from 'react-icons/fa';
-import '../styles/Navbar.css'; // Custom CSS for styling
+import '../styles/Navbar.css';
 
 const NavbarEle = () => {
   return (
