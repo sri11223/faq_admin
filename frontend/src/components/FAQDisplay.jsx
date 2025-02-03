@@ -11,7 +11,9 @@ const FAQDisplay = ({ lang }) => {
   useEffect(() => {
     const fetchFAQs = async () => {
       try {
-        const response = await axios.get(`https://faq-admin-backend.onrender.com/api/faqs?lang=${lang}`);
+        console.log(lang)
+        const response = await axios.get(`http://localhost:3001/api/faqs?lang=${lang}`);
+        console.log(response);
         setFaqs(response.data);
       } catch (error) {
         console.error('Error fetching FAQs:', error);
@@ -25,7 +27,6 @@ const FAQDisplay = ({ lang }) => {
   return (
     <div className="faq-container">
       <h2 className="text-center mb-4">Frequently Asked Questions</h2>
-
       {loading ? (
         <div className="text-center">
           <Spinner animation="border" variant="primary" />
@@ -36,7 +37,7 @@ const FAQDisplay = ({ lang }) => {
             faqs.map((faq, index) => (
               <Accordion.Item eventKey={index.toString()} key={faq._id}>
                 <Accordion.Header>{faq.question}</Accordion.Header>
-                <Accordion.Body>{faq.answer}</Accordion.Body>
+                <Accordion.Body dangerouslySetInnerHTML={{ __html: faq.answer }} />
               </Accordion.Item>
             ))
           ) : (
