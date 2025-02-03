@@ -11,7 +11,7 @@ const FAQDisplay = ({ lang }) => {
   useEffect(() => {
     const fetchFAQs = async () => {
       try {
-        const response = await axios.get(`http://localhost:3001/api/faqs?lang=${lang}`);
+        const response = await axios.get(`https://faq-admin-backend.onrender.com/api/faqs?lang=${lang}`);
         setFaqs(response.data);
       } catch (error) {
         console.error('Error fetching FAQs:', error);
