@@ -1,40 +1,40 @@
 // src/components/FAQList.jsx
 import React, { useState } from 'react';
 import Accordion from 'react-bootstrap/Accordion';
-import { FaEdit, FaTrash } from 'react-icons/fa'; // Font Awesome icons
-import DOMPurify from 'dompurify'; // Import DOMPurify for sanitization
+import { FaEdit, FaTrash } from 'react-icons/fa'; 
+import DOMPurify from 'dompurify';
 
 const FAQList = ({ faqs, onDelete, onUpdate }) => {
-  const [editId, setEditId] = useState(null); // Track the FAQ being edited
+  const [editId, setEditId] = useState(null); 
   const [updatedQuestion, setUpdatedQuestion] = useState('');
   const [updatedAnswer, setUpdatedAnswer] = useState('');
-  const [activeKey, setActiveKey] = useState(null); // Track the active accordion item
+  const [activeKey, setActiveKey] = useState(null); 
 
   // Handle Edit Button Click
   const handleEdit = (faq) => {
     console.log(faq.id);
-    setEditId(faq.id); // Set the FAQ being edited
-    setUpdatedQuestion(faq.question); // Initialize with the current question
-    setUpdatedAnswer(faq.answer); // Initialize with the current answer
-    setActiveKey(faq.id); // Open the accordion item being edited
+    setEditId(faq.id); 
+    setUpdatedQuestion(faq.question); 
+    setUpdatedAnswer(faq.answer); 
+    setActiveKey(faq.id); 
   };
 
   // Handle Save Button Click
   const handleSave = (id) => {
     console.log(updatedAnswer, updatedQuestion);
-    onUpdate(id, updatedQuestion, updatedAnswer); // Call onUpdate to save changes
-    setEditId(null); // Exit edit mode
-    setUpdatedQuestion(''); // Clear the updated question
-    setUpdatedAnswer(''); // Clear the updated answer
-    setActiveKey(null); // Close the accordion item
+    onUpdate(id, updatedQuestion, updatedAnswer); 
+    setEditId(null); 
+    setUpdatedQuestion(''); 
+    setUpdatedAnswer(''); 
+    setActiveKey(null);
   };
 
   // Handle Cancel Button Click
   const handleCancel = () => {
-    setEditId(null); // Exit edit mode
-    setUpdatedQuestion(''); // Clear the updated question
-    setUpdatedAnswer(''); // Clear the updated answer
-    setActiveKey(null); // Close the accordion item
+    setEditId(null); 
+    setUpdatedQuestion(''); 
+    setUpdatedAnswer(''); 
+    setActiveKey(null); 
   };
 
   return (
