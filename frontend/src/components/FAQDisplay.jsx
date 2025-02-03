@@ -12,7 +12,7 @@ const FAQDisplay = ({ lang }) => {
     const fetchFAQs = async () => {
       try {
         console.log(lang)
-        const response = await axios.get(`http://localhost:3001/api/faqs?lang=${lang}`);
+        const response = await axios.get(`https://faq-admin-backend.onrender.com/api/faqs?lang=${lang}`);
         console.log(response);
         setFaqs(response.data);
       } catch (error) {
