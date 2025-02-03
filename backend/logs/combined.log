@@ -1,0 +1,482 @@
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679dcefe3c871f846db2c658","timestamp":"2025-02-01T07:36:30.359Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: en)","timestamp":"2025-02-01T07:37:02.770Z"}
+{"level":"info","message":"FAQs cached for lang: en","timestamp":"2025-02-01T07:37:02.936Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: undefined)","timestamp":"2025-02-01T09:10:01.128Z"}
+{"level":"info","message":"FAQs cached for lang: undefined","timestamp":"2025-02-01T09:10:02.504Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: undefined)","timestamp":"2025-02-01T09:10:02.562Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: en)","timestamp":"2025-02-01T09:10:52.529Z"}
+{"level":"info","message":"FAQs cached for lang: en","timestamp":"2025-02-01T09:10:52.681Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:10:52.981Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679de5363c871f846db2c65d","timestamp":"2025-02-01T09:11:19.317Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679de5393c871f846db2c65f","timestamp":"2025-02-01T09:11:21.818Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679de53a3c871f846db2c661","timestamp":"2025-02-01T09:11:22.639Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: undefined)","timestamp":"2025-02-01T09:12:24.371Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:12:24.373Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: undefined)","timestamp":"2025-02-01T09:12:24.727Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:12:24.729Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: undefined)","timestamp":"2025-02-01T09:14:24.430Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:14:24.432Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: undefined)","timestamp":"2025-02-01T09:14:24.507Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:14:24.510Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:17:54.201Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:17:54.262Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: hi)","timestamp":"2025-02-01T09:18:00.585Z"}
+{"level":"info","message":"FAQs cached for lang: hi","timestamp":"2025-02-01T09:18:00.745Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: bn)","timestamp":"2025-02-01T09:18:04.693Z"}
+{"level":"info","message":"FAQs cached for lang: bn","timestamp":"2025-02-01T09:18:04.839Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:18:07.284Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:18:08.712Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:18:08.773Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679de6f03c871f846db2c665","timestamp":"2025-02-01T09:18:41.119Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:19:26.550Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:19:26.609Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:21:10.689Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:21:10.747Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:21:27.406Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:21:27.469Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:22:10.380Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:22:10.681Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:23:03.557Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:23:03.737Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:23:25.727Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:23:25.833Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:23:36.265Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T09:23:39.747Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:23:43.055Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:24:37.578Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:24:37.824Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:24:43.790Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:24:43.980Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: en) - Fetching from DB","timestamp":"2025-02-01T09:28:38.066Z"}
+{"level":"info","message":"FAQs cached for lang: en","timestamp":"2025-02-01T09:28:38.298Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:28:38.386Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:30:03.656Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:30:03.857Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:30:08.320Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:30:08.611Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:30:17.686Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T09:30:24.094Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:30:26.547Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:30:59.383Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T09:31:05.836Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:31:09.293Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: hi) - Fetching from DB","timestamp":"2025-02-01T09:33:11.416Z"}
+{"level":"info","message":"FAQs cached for lang: hi","timestamp":"2025-02-01T09:33:11.608Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: bn) - Fetching from DB","timestamp":"2025-02-01T09:33:36.594Z"}
+{"level":"info","message":"FAQs cached for lang: bn","timestamp":"2025-02-01T09:33:36.740Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:34:28.876Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T09:34:32.727Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:34:39.978Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:34:42.136Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T09:34:46.692Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:34:48.225Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:34:48.289Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679deac6134aba9522aa35c0","timestamp":"2025-02-01T09:35:02.887Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:07.484Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:07.556Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:09.827Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:09.890Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:10.487Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:10.557Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:12.542Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:12.617Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:45.557Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:35:45.615Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679deb06134aba9522aa35c2","timestamp":"2025-02-01T09:36:07.073Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:08.264Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:08.347Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:10.262Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:10.332Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:11.894Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:11.962Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:12.874Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:12.885Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:12.961Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:14.313Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:14.387Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:15.519Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:15.597Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:15.684Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:36:15.759Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T09:37:01.391Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:37:11.832Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679deb99134aba9522aa35c4","timestamp":"2025-02-01T09:38:34.261Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:42:34.076Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:42:34.147Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: en) - Fetching from DB","timestamp":"2025-02-01T09:44:23.540Z"}
+{"level":"info","message":"FAQs cached for lang: en","timestamp":"2025-02-01T09:44:23.720Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:44:23.802Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:44:36.778Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:44:38.915Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:44:39.017Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:44:42.479Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T09:44:45.166Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:45:04.033Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:45:16.763Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:45:16.845Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:45:20.900Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:46:03.310Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:46:03.388Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:46:14.430Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T09:46:30.026Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:47:20.178Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:47:20.257Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:47:41.340Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:51:18.298Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: hi) - Fetching from DB","timestamp":"2025-02-01T09:53:53.902Z"}
+{"level":"info","message":"FAQs cached for lang: hi","timestamp":"2025-02-01T09:53:54.486Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: bn) - Fetching from DB","timestamp":"2025-02-01T09:54:00.793Z"}
+{"level":"info","message":"FAQs cached for lang: bn","timestamp":"2025-02-01T09:54:00.971Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:02.622Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:02.691Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679def4a8274a3551ad29a51","timestamp":"2025-02-01T09:54:19.042Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:21.112Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:21.181Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:23.853Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:23.922Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:25.504Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:25.811Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:27.963Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:54:28.042Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:55:15.190Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:55:15.258Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T09:55:18.411Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T09:55:20.921Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:55:23.307Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:55:25.368Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T09:55:25.429Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: en) - Fetching from DB","timestamp":"2025-02-01T10:02:18.375Z"}
+{"level":"info","message":"FAQs cached for lang: en","timestamp":"2025-02-01T10:02:18.548Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T10:02:33.560Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: en) - Fetching from DB","timestamp":"2025-02-01T11:51:13.967Z"}
+{"level":"info","message":"FAQs cached for lang: en","timestamp":"2025-02-01T11:51:15.251Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:51:15.296Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:51:27.184Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:51:27.246Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: hi) - Fetching from DB","timestamp":"2025-02-01T11:51:29.810Z"}
+{"level":"info","message":"FAQs cached for lang: hi","timestamp":"2025-02-01T11:51:30.131Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: bn) - Fetching from DB","timestamp":"2025-02-01T11:51:33.045Z"}
+{"level":"info","message":"FAQs cached for lang: bn","timestamp":"2025-02-01T11:51:33.156Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:07.515Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:07.774Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e0af55e9e77f38790e202","timestamp":"2025-02-01T11:52:21.445Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:22.786Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:23.044Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:24.165Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:24.239Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:32.243Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:32.335Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:33.524Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:52:33.564Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T11:52:36.483Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T11:52:38.569Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:07.080Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:07.160Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:08.198Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:08.358Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:09.920Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:10.200Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:12.038Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:12.352Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:14.480Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:14.559Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e0c2d644d7b3bfe657940","timestamp":"2025-02-01T11:57:33.459Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:34.326Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:34.399Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:35.757Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:35.838Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:36.279Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:36.332Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:36.442Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:36.518Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:36.598Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:36.654Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:36.796Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:36.876Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:36.938Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:51.917Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:51.921Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:57:52.197Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T11:57:56.378Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: bn)","timestamp":"2025-02-01T11:57:59.555Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:58:01.677Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:58:03.810Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T11:58:03.876Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:01:29.349Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:01:29.428Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:01:32.311Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:01:32.390Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:01:32.455Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:01:32.499Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:02:45.471Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:02:45.523Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:02:56.936Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:02:56.989Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:02:58.785Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:02:59.034Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:02:59.292Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e0d87862f06587083b034","timestamp":"2025-02-01T12:03:20.429Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:05:09.276Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:05:09.328Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: en) - Fetching from DB","timestamp":"2025-02-01T12:08:37.378Z"}
+{"level":"info","message":"FAQs cached for lang: en","timestamp":"2025-02-01T12:08:37.542Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:08:37.593Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e0edf2c9a63c72e23d205","timestamp":"2025-02-01T12:09:03.833Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:09:07.857Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:09:07.907Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:09:41.498Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:09:41.556Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:09:43.640Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:09:43.734Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:09:44.455Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:09:44.512Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: hi) - Fetching from DB","timestamp":"2025-02-01T12:10:08.492Z"}
+{"level":"info","message":"FAQs cached for lang: hi","timestamp":"2025-02-01T12:10:08.623Z"}
+{"level":"info","message":"Cache miss for FAQs (lang: bn) - Fetching from DB","timestamp":"2025-02-01T12:10:14.013Z"}
+{"level":"info","message":"FAQs cached for lang: bn","timestamp":"2025-02-01T12:10:14.340Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:17.174Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:52.709Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:55.241Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:55.333Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:55.357Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:55.548Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:56.541Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:57.452Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:58.511Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:10:59.408Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:11:00.438Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:11:01.007Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:11:01.321Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:11:02.678Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:11:02.732Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:11:05.961Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:11:06.099Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:06.662Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:06.887Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:19.440Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:19.515Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:41.071Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:41.366Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:41.615Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:41.660Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:41.816Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:41.860Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:42.171Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:42.215Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:42.396Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:42.439Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:53.000Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:53.085Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.132Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.248Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.300Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.400Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.519Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.657Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.663Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.725Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.863Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:54.943Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:55.006Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:55.068Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:55.480Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:55.548Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:55.627Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:55.686Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:59.550Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:59.646Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:12:59.725Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:13:05.749Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:13:06.005Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:13:08.064Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:13:08.125Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: hi)","timestamp":"2025-02-01T12:13:14.480Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:13:23.025Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:18:05.847Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:18:05.927Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:18:06.457Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:18:06.526Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:18:06.731Z"}
+{"level":"info","message":"Cache hit for FAQs (lang: en)","timestamp":"2025-02-01T12:18:06.937Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e116c7a239aa6d048a2a0","timestamp":"2025-02-01T12:19:56.435Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e13337a239aa6d048a2a8","timestamp":"2025-02-01T12:27:31.530Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e222578240fdfe01e9123","timestamp":"2025-02-01T13:31:17.639Z"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:129:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T13:58:17.661Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:129:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T13:58:18.837Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:129:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T13:58:20.608Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:129:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T13:58:20.835Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:129:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T13:58:41.273Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:129:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T13:58:42.560Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:129:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T13:58:45.299Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:129:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T13:59:03.893Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:128:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T14:00:31.636Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error updating FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndUpdate (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3403:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:101:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T14:02:57.013Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:128:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T14:46:36.382Z","value":"undefined","valueType":"string"}
+{"kind":"ObjectId","level":"error","message":"Error deleting FAQ: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"FAQ\"\n    at SchemaObjectId.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1255:12)\n    at SchemaType.castForQuery (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1673:17)\n    at cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n    at Query.cast (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4889:12)\n    at Query._castConditions (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:2306:10)\n    at model.Query._findOneAndDelete (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:3537:8)\n    at model.Query.exec (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\query.js:4438:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteFAQ (file:///C:/Users/Srikrishna/OneDrive/Desktop/BharatFd/backend/controllers/faqController.js:128:24)","stringValue":"\"undefined\"","timestamp":"2025-02-01T14:48:29.494Z","value":"undefined","valueType":"string"}
+{"level":"error","message":"Error deleting FAQ: Operation `faqs.findOneAndDelete()` buffering timed out after 10000ms","stack":"MongooseError: Operation `faqs.findOneAndDelete()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:185:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"2025-02-01T14:58:28.974Z"}
+{"cause":{"code":"ENOTFOUND","errno":-3008,"hostname":"cluster0-shard-00-01.7zyw4.mongodb.net","syscall":"getaddrinfo"},"connectionGeneration":0,"level":"error","message":"Error deleting FAQ: getaddrinfo ENOTFOUND cluster0-shard-00-01.7zyw4.mongodb.net","stack":"MongoNetworkError: getaddrinfo ENOTFOUND cluster0-shard-00-01.7zyw4.mongodb.net\n    at TLSSocket.<anonymous> (C:\\Users\\Srikrishna\\OneDrive\\Desktop\\BharatFd\\backend\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:633:26)\n    at TLSSocket.emit (node:events:518:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-02-01T15:01:45.862Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679deb06134aba9522aa35c2","timestamp":"2025-02-01T15:12:39.968Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679def4a8274a3551ad29a51","timestamp":"2025-02-01T15:12:49.501Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679e0d87862f06587083b034","timestamp":"2025-02-01T15:12:54.754Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679e0edf2c9a63c72e23d205","timestamp":"2025-02-01T15:12:58.150Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679e13337a239aa6d048a2a8","timestamp":"2025-02-01T15:13:06.465Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679e116c7a239aa6d048a2a0","timestamp":"2025-02-01T15:13:15.704Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679de5363c871f846db2c65d","timestamp":"2025-02-01T15:18:47.646Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679de5363c871f846db2c65d","timestamp":"2025-02-01T15:19:12.635Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679de5363c871f846db2c65d","timestamp":"2025-02-01T15:19:38.430Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679de5363c871f846db2c65d","timestamp":"2025-02-01T15:21:27.540Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679de5363c871f846db2c65d","timestamp":"2025-02-01T15:22:17.259Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679de6f03c871f846db2c665","timestamp":"2025-02-01T15:23:34.335Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e3cc21c3de1a03b6abd97","timestamp":"2025-02-01T15:24:50.858Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e6c011c3de1a03b6abdbd","timestamp":"2025-02-01T18:46:25.994Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679e6c011c3de1a03b6abdbd","timestamp":"2025-02-01T18:47:41.320Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e6c691c3de1a03b6abdc3","timestamp":"2025-02-01T18:48:09.794Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679e6c691c3de1a03b6abdc3","timestamp":"2025-02-01T18:56:32.694Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e6e741c3de1a03b6abdcc","timestamp":"2025-02-01T18:56:55.179Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679e6fae1c3de1a03b6abdd4","timestamp":"2025-02-01T19:02:06.539Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679e6fae1c3de1a03b6abdd4","timestamp":"2025-02-02T06:28:38.268Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679e6fae1c3de1a03b6abdd4","timestamp":"2025-02-02T06:28:44.670Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679f60d51c3de1a03b6abde6","timestamp":"2025-02-02T12:11:02.381Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679f61271c3de1a03b6abde8","timestamp":"2025-02-02T12:12:23.429Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679f61271c3de1a03b6abde8","timestamp":"2025-02-02T12:13:03.392Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679f60d51c3de1a03b6abde6","timestamp":"2025-02-02T12:13:05.998Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679f615e1c3de1a03b6abdef","timestamp":"2025-02-02T12:13:19.843Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679f615e1c3de1a03b6abdef","timestamp":"2025-02-02T12:29:36.667Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679e6e741c3de1a03b6abdcc","timestamp":"2025-02-02T12:29:44.877Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679f654d1c3de1a03b6abdf5","timestamp":"2025-02-02T12:30:06.758Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679f666c1c3de1a03b6abdfa","timestamp":"2025-02-02T12:34:53.052Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679f66911c3de1a03b6abe01","timestamp":"2025-02-02T12:35:30.126Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679f66911c3de1a03b6abe01","timestamp":"2025-02-02T12:35:57.803Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fa7229fedfdeb2fe4ee04","timestamp":"2025-02-02T17:10:58.651Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fa7239fedfdeb2fe4ee0c","timestamp":"2025-02-02T17:10:59.664Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fa7239fedfdeb2fe4ee11","timestamp":"2025-02-02T17:11:00.167Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fa7259fedfdeb2fe4ee15","timestamp":"2025-02-02T17:11:01.443Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fa7269fedfdeb2fe4ee18","timestamp":"2025-02-02T17:11:02.169Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fa7269fedfdeb2fe4ee1b","timestamp":"2025-02-02T17:11:02.822Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fabdd6c54adaed83f5ef2","timestamp":"2025-02-02T17:31:10.612Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fabe16c54adaed83f5ef7","timestamp":"2025-02-02T17:31:13.575Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fabe26c54adaed83f5efa","timestamp":"2025-02-02T17:31:14.390Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fac031c26eb868dcda875","timestamp":"2025-02-02T17:31:47.696Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fac041c26eb868dcda87d","timestamp":"2025-02-02T17:31:48.659Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fac041c26eb868dcda882","timestamp":"2025-02-02T17:31:49.053Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fac051c26eb868dcda886","timestamp":"2025-02-02T17:31:50.099Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fac061c26eb868dcda889","timestamp":"2025-02-02T17:31:50.760Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fac071c26eb868dcda88c","timestamp":"2025-02-02T17:31:51.450Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fac61aec381ee64149fef","timestamp":"2025-02-02T17:33:22.441Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fac62aec381ee64149ff4","timestamp":"2025-02-02T17:33:23.389Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fac6aaec381ee64149ff9","timestamp":"2025-02-02T17:33:30.536Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fac6aaec381ee64149ffb","timestamp":"2025-02-02T17:33:30.924Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fac96facc2203abf8f3f4","timestamp":"2025-02-02T17:34:15.254Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fac97facc2203abf8f3f9","timestamp":"2025-02-02T17:34:15.763Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fac98facc2203abf8f3fd","timestamp":"2025-02-02T17:34:17.556Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fac9afacc2203abf8f400","timestamp":"2025-02-02T17:34:19.154Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fac9bfacc2203abf8f403","timestamp":"2025-02-02T17:34:20.256Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fad403bb68f2b3bf543f4","timestamp":"2025-02-02T17:37:05.170Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fad423bb68f2b3bf543fc","timestamp":"2025-02-02T17:37:06.424Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fad423bb68f2b3bf54401","timestamp":"2025-02-02T17:37:06.880Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fad433bb68f2b3bf54405","timestamp":"2025-02-02T17:37:08.393Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fad453bb68f2b3bf54408","timestamp":"2025-02-02T17:37:10.002Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fad463bb68f2b3bf5440b","timestamp":"2025-02-02T17:37:10.833Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fae2cfd8184d0aa33a960","timestamp":"2025-02-02T17:41:00.500Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fae3cfd8184d0aa33a963","timestamp":"2025-02-02T17:41:16.534Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fae4efd8184d0aa33a966","timestamp":"2025-02-02T17:41:34.708Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fae4efd8184d0aa33a966","timestamp":"2025-02-02T17:41:39.632Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fae3cfd8184d0aa33a963","timestamp":"2025-02-02T17:41:51.517Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679faea0ba5b9bbd56cc7bf6","timestamp":"2025-02-02T17:42:56.731Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679faea1ba5b9bbd56cc7bfe","timestamp":"2025-02-02T17:42:58.001Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679faea2ba5b9bbd56cc7c03","timestamp":"2025-02-02T17:42:58.350Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679faea3ba5b9bbd56cc7c07","timestamp":"2025-02-02T17:42:59.686Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679faea4ba5b9bbd56cc7c0a","timestamp":"2025-02-02T17:43:00.646Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679faea5ba5b9bbd56cc7c0d","timestamp":"2025-02-02T17:43:01.645Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fafe3a8003ee87f73d0b0","timestamp":"2025-02-02T17:48:20.445Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fafe4a8003ee87f73d0b4","timestamp":"2025-02-02T17:48:21.521Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fafe6a8003ee87f73d0b8","timestamp":"2025-02-02T17:48:22.639Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fafe6a8003ee87f73d0bd","timestamp":"2025-02-02T17:48:23.038Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fafe7a8003ee87f73d0c1","timestamp":"2025-02-02T17:48:24.403Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fafe8a8003ee87f73d0c4","timestamp":"2025-02-02T17:48:25.198Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fafe9a8003ee87f73d0c7","timestamp":"2025-02-02T17:48:26.158Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb055edcafcb44dc24f9e","timestamp":"2025-02-02T17:50:13.866Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb056edcafcb44dc24fa2","timestamp":"2025-02-02T17:50:14.699Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb057edcafcb44dc24fa6","timestamp":"2025-02-02T17:50:15.329Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb057edcafcb44dc24fab","timestamp":"2025-02-02T17:50:15.722Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb058edcafcb44dc24faf","timestamp":"2025-02-02T17:50:16.928Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb059edcafcb44dc24fb2","timestamp":"2025-02-02T17:50:17.696Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb05aedcafcb44dc24fb5","timestamp":"2025-02-02T17:50:18.725Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb0ba086a9901677044c7","timestamp":"2025-02-02T17:51:54.461Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb0bb086a9901677044cb","timestamp":"2025-02-02T17:51:55.563Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb0bb086a9901677044cf","timestamp":"2025-02-02T17:51:56.281Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb0bc086a9901677044d4","timestamp":"2025-02-02T17:51:56.574Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb0bd086a9901677044d9","timestamp":"2025-02-02T17:51:57.896Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb0be086a9901677044dc","timestamp":"2025-02-02T17:51:58.721Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb0bf086a9901677044df","timestamp":"2025-02-02T17:51:59.641Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb166466527c5c795a17c","timestamp":"2025-02-02T17:54:46.520Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb167466527c5c795a180","timestamp":"2025-02-02T17:54:47.493Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb168466527c5c795a184","timestamp":"2025-02-02T17:54:48.448Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb168466527c5c795a189","timestamp":"2025-02-02T17:54:49.108Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb16a466527c5c795a18e","timestamp":"2025-02-02T17:54:51.480Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb16c466527c5c795a192","timestamp":"2025-02-02T17:54:52.682Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb1f34a5ff601a55c04ce","timestamp":"2025-02-02T17:57:08.014Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb1f44a5ff601a55c04d2","timestamp":"2025-02-02T17:57:08.498Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb1f44a5ff601a55c04d7","timestamp":"2025-02-02T17:57:08.853Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb1f54a5ff601a55c04dc","timestamp":"2025-02-02T17:57:10.298Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb1f64a5ff601a55c04df","timestamp":"2025-02-02T17:57:11.178Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb1f74a5ff601a55c04e2","timestamp":"2025-02-02T17:57:12.249Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb25fedc217beeb92b31f","timestamp":"2025-02-02T17:59:02.207Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb263edc217beeb92b322","timestamp":"2025-02-02T17:59:02.323Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb266edc217beeb92b327","timestamp":"2025-02-02T17:59:02.870Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb267edc217beeb92b32c","timestamp":"2025-02-02T17:59:04.089Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb268edc217beeb92b32f","timestamp":"2025-02-02T17:59:05.032Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb282c848c3e5ef07e08f","timestamp":"2025-02-02T17:59:30.804Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb285c848c3e5ef07e093","timestamp":"2025-02-02T17:59:33.650Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb286c848c3e5ef07e098","timestamp":"2025-02-02T17:59:35.134Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb28ac848c3e5ef07e09d","timestamp":"2025-02-02T17:59:39.711Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb28dc848c3e5ef07e0a0","timestamp":"2025-02-02T17:59:41.393Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb2d085f250e5f222f3c6","timestamp":"2025-02-02T18:00:49.288Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb2d185f250e5f222f3ca","timestamp":"2025-02-02T18:00:49.986Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb2d285f250e5f222f3cf","timestamp":"2025-02-02T18:00:50.616Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb2d485f250e5f222f3d4","timestamp":"2025-02-02T18:00:54.082Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb2d785f250e5f222f3d7","timestamp":"2025-02-02T18:00:55.496Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb2e9ef9a7642a04c03dc","timestamp":"2025-02-02T18:01:14.211Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb2eaef9a7642a04c03e0","timestamp":"2025-02-02T18:01:14.645Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb2eaef9a7642a04c03e5","timestamp":"2025-02-02T18:01:15.022Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb2ecef9a7642a04c03ea","timestamp":"2025-02-02T18:01:16.565Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb2edef9a7642a04c03ed","timestamp":"2025-02-02T18:01:17.460Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb2fe5f2370815805cfe6","timestamp":"2025-02-02T18:01:34.856Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb2ff5f2370815805cfea","timestamp":"2025-02-02T18:01:35.432Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb2ff5f2370815805cfef","timestamp":"2025-02-02T18:01:35.862Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb3005f2370815805cff4","timestamp":"2025-02-02T18:01:37.287Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb3015f2370815805cff7","timestamp":"2025-02-02T18:01:38.165Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb41e0b7309f64c626dc5","timestamp":"2025-02-02T18:06:22.962Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb4200b7309f64c626dca","timestamp":"2025-02-02T18:06:25.232Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb4210b7309f64c626dcd","timestamp":"2025-02-02T18:06:26.135Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb44c0679a539b6b2391c","timestamp":"2025-02-02T18:07:08.958Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb44d0679a539b6b23921","timestamp":"2025-02-02T18:07:09.491Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb44e0679a539b6b23926","timestamp":"2025-02-02T18:07:11.209Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb44f0679a539b6b23929","timestamp":"2025-02-02T18:07:11.930Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb46365494baa99686c22","timestamp":"2025-02-02T18:07:31.469Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb46365494baa99686c26","timestamp":"2025-02-02T18:07:31.851Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb46465494baa99686c2b","timestamp":"2025-02-02T18:07:32.289Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb46565494baa99686c30","timestamp":"2025-02-02T18:07:33.809Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb46665494baa99686c33","timestamp":"2025-02-02T18:07:35.058Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb497ffc43ea362b41542","timestamp":"2025-02-02T18:08:23.725Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb497ffc43ea362b41546","timestamp":"2025-02-02T18:08:24.068Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb498ffc43ea362b4154b","timestamp":"2025-02-02T18:08:24.419Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb499ffc43ea362b41550","timestamp":"2025-02-02T18:08:25.779Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb49affc43ea362b41553","timestamp":"2025-02-02T18:08:26.624Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb4a95b58d7c184fd5719","timestamp":"2025-02-02T18:08:42.268Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb4aa5b58d7c184fd571d","timestamp":"2025-02-02T18:08:42.591Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb4aa5b58d7c184fd5722","timestamp":"2025-02-02T18:08:43.086Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb4ac5b58d7c184fd5727","timestamp":"2025-02-02T18:08:44.491Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb4ac5b58d7c184fd572a","timestamp":"2025-02-02T18:08:45.388Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb4bcfebbd8e5960d6efe","timestamp":"2025-02-02T18:09:00.433Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb4bcfebbd8e5960d6f02","timestamp":"2025-02-02T18:09:01.028Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb4bdfebbd8e5960d6f07","timestamp":"2025-02-02T18:09:01.467Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb4befebbd8e5960d6f0c","timestamp":"2025-02-02T18:09:02.692Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb4bffebbd8e5960d6f0f","timestamp":"2025-02-02T18:09:03.487Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb58bc9e5a55b576812ac","timestamp":"2025-02-02T18:12:28.421Z"}
+{"level":"info","message":"Cache invalidated for FAQs after updating FAQ: 679fb58cc9e5a55b576812b0","timestamp":"2025-02-02T18:12:28.755Z"}
+{"level":"info","message":"Cache invalidated for FAQs after deleting FAQ: 679fb58cc9e5a55b576812b5","timestamp":"2025-02-02T18:12:29.115Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb58ec9e5a55b576812ba","timestamp":"2025-02-02T18:12:30.444Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 679fb58ec9e5a55b576812bd","timestamp":"2025-02-02T18:12:31.334Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 67a024d969e992ebf0c66ea8","timestamp":"2025-02-03T02:07:25.561Z"}
+{"level":"info","message":"Cache invalidated for FAQs after creating new FAQ: 67a024dd69e992ebf0c66eab","timestamp":"2025-02-03T02:07:26.000Z"}

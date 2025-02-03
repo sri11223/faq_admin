@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bharatfd-449606",
+  "private_key_id": "ba3d237705644497d1f91035a074a176c949abee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDuiBBs70JFslRr\nyuuyA2sfwGjA3u4dizGEcttUNosBSpMPEMIeKW0mfWhzOeQlzpnVW6HkDa3hA9gJ\nf2lHeDJhD3qrD/RdJwTdiNgIK8iTyetakiRekiy6kc/J3wbS1Vlm7cHekdVaClgr\nvUImxrw85aeOednQL8FdF0xJ7XzlulCmyJM2JmC/KJgGkf6Q8+1h4OuK/LWplTom\nU6kYe62ug9o6Oo06JkkC8GVkwR6BRD/fbkyZGpWJjtFI34Lf+v8CU3kYwJTDmz+G\n9vIAjs7QwNuhVnoXQ3vaw02GfATZzHQX4GSIIk1sOCq5/EJicmiky0KvMjedBxJb\nq0CI2udlAgMBAAECggEABhwE5FljdpKzpVglncyxyCF+6AkTCxLXMkKD2h4UhN8I\nBw/W56ay0D8ljKVRXI40XqSHGrwmoDe050IKFwXIhTe8MgNJrxTHronpqJnrJwKP\nYpA8L2eUjt8bC0YJBXTn94zZlUMMdnmDL8mcQbnU3/AXkNIPprdWafU7DmivX9iP\nZ4mDOEnJdlUJAF5Uc7Uo3x5MAl+riJ8MKJQhdTlKm3wbJLjRmPQG6fdBpnt0JZf6\nSr0H6eQO4HXhF90dd8vzk3XCLB7dxXrDlQcFY8uYSpfn3mIq46hcweVZ1r8zSxG3\ns82iF8VjjpDnrnVIepSnQIhfAtk8Y/Pidf+sEguvaQKBgQD8B2J1XKItYE3mk9Jq\ndO4FC6a2uqFawEk70GbK17obxYvV/eSoVgamCE8ollK8A6OWwY2HUqX5ElB/rcjb\nkuIYv9Q7wDk3YTGvmEe6HwUpq/ZJEq9U9JA20Y94gvpsT1GcpOwRIDG6bSiLHAZn\nLfF3JzN3sYgr4L9BLD8n4HNk7QKBgQDySjwmZSnM8TNGl4Qj0Y5T91c6KfELb1Cg\ntrMF+nzJ2gQIVC8BnEKH3x0vRdsQ9FZXpMY5NQXcdBPzeGlgo57fgxJqpZqPMIlM\n3CbJIuCtPHN4S1B9oWW4A6HOd16QOeb+NW3dyPBIYAzacWuXLmIV7LprKy0UIgNn\ng4/S5v71WQKBgCDXZYEdnRSEpCITySuOKSYHKqZNE5Gb1O8ybPKpwdq0l1A/UXiO\nHTethYMoc4eEgeC3QBYOMwqN1GeO4cmbDlNjS+itV8dbpvnWwiICwM15VxKWmLpd\nVB2QmT1+89sBSwU6iHiC1XgRmWLnN/5iAkEgnphOTgxJsSJw/ZnYqbDRAoGBAKbR\ny/ZXot8zly1cdyO+TfOsEge/BvLrkqUFBd/w5miITkx5wd+m+fvY95wrybgzsxsn\nHUAYLM/rsCzrVAqwvVuBQHXjTbaXIYGk9qN3+x/rxkkl+eZ18LYw8gBZGefNpiiT\nGvEgP6hlUZQ5kW2HBwu3cWcGVERPYu6rm6QHXbYJAoGBANXeggJkGeH4lmx/DNEE\nKWJAZyzzh/dSPhfhzf3rJyWMgayN+Q/uwRCqtEwExtUfrsBXRXj3J2/TYYxGTnG7\nmO1liDQhTHdvRYH4E6Cwaajz/LeVm+E2RRAcpU3T8dUZEmPpxAZxlFujGsqa3M6G\nKwCbHaQC9Fnx350TQMYIBbWc\n-----END PRIVATE KEY-----\n",
+  "client_email": "faq-translation-service@bharatfd-449606.iam.gserviceaccount.com",
+  "client_id": "106290860781124759443",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/faq-translation-service%40bharatfd-449606.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
