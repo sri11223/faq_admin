@@ -5,8 +5,8 @@ import FAQList from '../components/FAQList';
 import { Container, Row, Col, Card, Spinner } from 'react-bootstrap';
 
 const AdminPage = () => {
-  const [faqs, setFaqs] = useState([]); // State to store FAQs
-  const [loading, setLoading] = useState(false); // Loading state for fetching data
+  const [faqs, setFaqs] = useState([]); 
+  const [loading, setLoading] = useState(false); 
 
   // Fetch FAQs on component mount
   useEffect(() => {
